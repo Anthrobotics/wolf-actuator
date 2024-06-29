@@ -15,8 +15,11 @@ A 3D-printable high-torque planetary actuator.
 # Assembly Guide
 
 # Usage
+Refer to the usage guide for best practices when using this actuator.
 
 # Contribute
+
+Contributions from the community are welcomed! Please check the contribution guide to learn how to get involved.
 
 # License
 
