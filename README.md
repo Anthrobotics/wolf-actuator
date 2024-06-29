@@ -1,3 +1,5 @@
+![alt text](https://github.com/Anthrobotics/.github/blob/main/profile/images/banner.jpg?raw=true)
+
 # reflex-actuator
 A 3D-printable high-torque planetary actuator.
 
