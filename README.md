@@ -1,7 +1,8 @@
 ![alt text](https://github.com/Anthrobotics/.github/blob/main/profile/images/banner.jpg?raw=true)
 
-# reflex-actuator [V1]
-A 3D-printable high-torque planetary actuator.
+# wolf-actuator [V1]
+# Description
+The WOLF actuator is a high-torque 3D-printable planetary robotic actuator. The design is based on the Wolfrom PGT.
 
 ![alt text](https://github.com/Anthrobotics/.github/blob/main/profile/images/reflex-actuator-front-view-bw.png?raw=true)
 
