@@ -90,3 +90,7 @@ Twitter: [@anthrobo](https://x.com/Anthrobo)
 ![alt text](https://github.com/Anthrobotics/.github/blob/main/profile/images/wolf-actuator-side-view-bw.png?raw=true)
 
 ![alt text](https://github.com/Anthrobotics/.github/blob/main/profile/images/wolf-actuator-bottom-view-bw.png?raw=true)
+
+# Attribution
+
+This design is derived from the RFX gearbox by Robin Fröjd.
