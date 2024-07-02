@@ -40,6 +40,9 @@ Test video below (redirects to YouTube):
 # Assembly Guide
 A video assembly guide will be created soon.
 
+# Bill of Materials
+A BOM will be added soon, including vendors.
+
 # Usage
 WOLF can be used in a number of applications, including:
 - Humanoid robots
