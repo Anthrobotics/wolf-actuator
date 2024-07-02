@@ -3,13 +3,16 @@
 # reflex-actuator [V1]
 A 3D-printable high-torque planetary actuator.
 
+![alt text](https://github.com/Anthrobotics/.github/blob/main/profile/images/reflex-actuator-front-view-bw.png?raw=true)
+
 # Features
-- Continuous Torque: 80 Nm
-- Peak Torque: 120 Nm 
-- Weight: 1.3 Kg
+- (Theoretical) Continuous Torque: 80 Nm
+- (Theoretical) Peak Torque: 120 Nm 
+- Weight: 1.2 Kg
+- Max Operating Current: 58 A
 - Operating Voltage Range: 24 VDC - 52 VDC
-- Diameter: 190 mm
-- Height: 60 mm
+- Diameter: 180 mm
+- Height: 67 mm
 - Encoder: AS5047P
 
 # Assembly Guide
