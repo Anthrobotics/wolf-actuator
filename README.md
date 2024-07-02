@@ -23,6 +23,12 @@ The specs of the V1 WOLF actuator are as follows:
 # Testing
 A number of tests have been performed on V1 of WOLF. The test model of WOLF was entirely 3D-printed using Polysonic PLA. Initial torque testing demonstrated that WOLF could output ~40.8 Nm of continuous torque, while consuming 10 A @ 30 VDC. Further testing will be performed to evaluate WOLF's performance at higher current limits, and with SLS-printed nylon gears.
 
+The actuator was capable of rotating the entire leg of our humanoid robot nearly 90 degrees in both forward and reverse directions. The weight of the leg is ~6 Kg, and 110 cm in height. 
+
+[![Test Video](https://www.youtube.com/watch?v=Vza2nBm8GV0&ab_channel=Project%2787byAnthrobotics/0.jpg)](https://www.youtube.com/watch?v=Vza2nBm8GV0&ab_channel=Project%2787byAnthrobotics)
+
+
+
 # Assembly Guide
 An video assembly guide will be created soon.
 
