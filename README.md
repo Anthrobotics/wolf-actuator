@@ -37,11 +37,45 @@ Test video below (redirects to YouTube):
     </div>
 
 
-# Assembly Guide
-A video assembly guide will be created soon.
-
 # Bill of Materials
-A BOM will be added soon, including vendors.
+You will need the following:
+
+Printed components:
+- 1x back plate
+- 1x front plate
+- 1x encoder magnet holder
+- 1x encoder housing
+- 2x internal ring gears
+- 2x outer rings
+- 2x outer ring caps
+- 12x planet gears
+- 1x sun gear
+- 168x rollers
+- 1x planet gear alignment tool
+
+COTS components:
+- 1x Eaglepower 8318 100KV brushless motor
+- 1x AMS AS5047P (ABI/ABZ) encoder **OR** 1x AMS AS5048A (SPI) encoder
+- 1x 6mmx2mm diametric encoder magnet (usually included with encoder)
+- 27x M3x5mm heat-set inserts, brass (24x to mount actuator using front/back plates, and 3x to secure encoder housing)
+- 12x M3x50mm bolts, socket head cap (to secure outer rings)
+- 12x M3x0.5mm hex nuts, 2mm height (to secure outer rings)
+- 3x M3x8mm bolts, countersunk (to secure encoder housing)
+- 4x M2x6mm bolts, countersunk (to secure encoder into housing)
+- 12x M3x0.5mm nylock nuts, 4mm height (optional to use in place of regular hex nuts)
+- 4x M4x12mm bolts, countersunk (to secure motor to backplate)
+- 4x M3x10mm bolts, countersunk (to secure sun gear to motor)
+
+Tools:
+- 3D printer
+- soldering iron w/ heat-set insert attachment
+- Hex head drivers (M2, M3, M4)
+- M3 wrench or compatible socket
+- Tweezers (to assist with bearing assembly)
+- PTFE lubricant (Super-Lube) for bearings and gears
+
+# Assembly Guide
+Coming soon.
 
 # Usage
 WOLF can be used in a number of applications, including:
