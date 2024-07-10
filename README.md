@@ -53,6 +53,8 @@ Printed components:
 - 168x rollers
 - 1x planet gear alignment tool
 
+**NOTE**: Some printable parts are labeled as *A* or *B*. Print one of each.
+
 COTS components:
 - 1x Eaglepower 8318 100KV brushless motor
 - 1x AMS AS5047P (ABI/ABZ) encoder **OR** 1x AMS AS5048A (SPI) encoder
@@ -84,7 +86,7 @@ WOLF can be used in a number of applications, including:
 - 3-Axis motion systems
 - Unmanned Ground Vehicles (UGV)
 
-WARNING: DO NOT place fingers or appendages near the gearing of the actuator while it is in motion. 
+**WARNING: DO NOT place fingers or appendages near the gearing of the actuator while it is in motion.**
 
 # Contribute
 
