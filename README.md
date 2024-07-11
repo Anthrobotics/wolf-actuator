@@ -129,4 +129,4 @@ Twitter: [@anthrobo](https://x.com/Anthrobo)
 
 # Attribution
 
-This design is derived from the RFX gearbox by Robin Fröjd.
+This design is inspired by from the RFX gearbox by Robin Fröjd.
