@@ -50,7 +50,7 @@ Printed components:
 - 2x outer ring caps
 - 12x planet gears
 - 1x sun gear
-- 168x rollers
+- 4x roller sets (168 rollers in total)
 - 1x planet gear alignment tool
 
 **NOTE**: Some printable parts are labeled as *A* or *B*. Print one of each.
