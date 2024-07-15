@@ -77,7 +77,7 @@ Tools:
 - PTFE lubricant (Super-Lube) for bearings and gears
 
 # Assembly Guide
-Coming soon.
+Uploaded V1.0 Assembly and Usage Guide. Markdown version will be added shortly.
 
 # Usage
 WOLF can be used in a number of applications, including:
