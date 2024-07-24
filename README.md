@@ -2,12 +2,12 @@
 
 # wolf-actuator [V1.1]
 # Description
-The WOLF actuator is a high-torque 3D-printable planetary robotic actuator. The design is based on the Wolfrom PGT, and does not require a planet gear carrier or planet gear bearings. All planet gears are equally spaced, and provide a large contact area for both the sun gear and ring gears. All gears are replaceable for added modularity and easy maintenance. Modular crossed-roller bearings on both ends of the actuator provide WOLF with improved load-bearing capabilities, and smoother motion. The actuator is fully-backdriveable, and is capable of compliant control and force sensing. WOLF can be manufactured using a number of methods, including FDM and SLS 3D printing, and CNC machining.
+The WOLF actuator is a high-torque 3D-printable planetary robotic actuator. The design is based on the Wolfrom PGT, and does not require a planet gear carrier or planet gear bearings. All planet gears are equally spaced, and provide a large contact area for both the sun gear and ring gears. All gears are replaceable for added modularity and easy maintenance. [Modular crossed-roller bearings](https://github.com/Anthrobotics/modular-bearing) on both ends of the actuator provide WOLF with improved load-bearing capabilities, and smoother motion. The actuator is fully-backdriveable, and is capable of compliant control and force sensing. WOLF can be manufactured using a number of methods, including FDM and SLS 3D printing, and CNC machining.
 
 ![alt text](https://github.com/Anthrobotics/.github/blob/main/profile/images/wolf-v1.1-angle-view-bw.png?raw=true)
 
 # Improvements from V1.0
-- Modular bearings for easy maintenance
+- [Modular bearings](https://github.com/Anthrobotics/modular-bearing) for easy maintenance
 - Separate mounting points - no more risking actuator disassembly when mounting loads
 - 67 mm height has been maintained - thin form factor
 - reduced unique part count - from 14, down to 12.
@@ -56,7 +56,7 @@ Printed components:
 - 2x outer rings
 - 12x planet gears
 - 1x sun gear
-- 2x modular bearings
+- 2x [modular bearings](https://github.com/Anthrobotics/modular-bearing), WOLF actuator edition
 - 1x planet gear alignment tool
 
 **NOTE**: Some printable parts are labeled as *A* or *B*. Print one of each.
