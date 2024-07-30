@@ -70,7 +70,7 @@ COTS components:
 - 12x M3x35mm bolts, socket head cap (to secure outer rings)
 - 12x M3x0.5mm hex nuts, 2mm height (to secure outer rings)
 - 3x M3x8mm bolts, countersunk (to secure encoder housing)
-- 4x M2x6mm bolts, countersunk (to secure encoder into housing)
+- 4x M2x6mm bolts, countersunk, self-tapping (to secure encoder into housing)
 - 12x M3x0.5mm nylock nuts, 4mm height (to secure load)
 - 4x M4x12mm bolts, countersunk (to secure motor to backplate)
 - 4x M3x10mm bolts, countersunk (to secure sun gear to motor)
