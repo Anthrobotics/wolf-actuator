@@ -17,7 +17,7 @@ The specs of the V1.1 WOLF actuator are as follows:
 - (Theoretical) Continuous Torque: 80 Nm
 - (Theoretical) Peak Torque: 120 Nm
 - Reduction: 34:1
-- Weight: 1.2 Kg
+- Weight: 1.55 Kg
 - Max Operating Current: 58 A
 - Operating Voltage Range: 24 VDC - 52 VDC
 - Diameter: 202.3 mm
