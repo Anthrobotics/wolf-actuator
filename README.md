@@ -1,21 +1,25 @@
 ![alt text](https://github.com/Anthrobotics/.github/blob/main/profile/images/banner.jpg?raw=true)
 
-# wolf-actuator [V1.1]
+# wolf-actuator [V1.2]
 # Description
 The WOLF actuator is a high-torque 3D-printable planetary robotic actuator. The design is based on the Wolfrom PGT, and does not require a planet gear carrier or planet gear bearings. All planet gears are equally spaced, and provide a large contact area for both the sun gear and ring gears. All gears are replaceable for added modularity and easy maintenance. [Modular crossed-roller bearings](https://github.com/Anthrobotics/modular-bearing) on both ends of the actuator provide WOLF with improved load-bearing capabilities, and smoother motion. The actuator is fully-backdriveable, and is capable of compliant control and force sensing. WOLF can be manufactured using a number of methods, including FDM and SLS 3D printing, and CNC machining.
 
 ![alt text](https://github.com/Anthrobotics/.github/blob/main/profile/images/wolf-v1.1-angle-view-bw.png?raw=true)
 
-# Improvements from V1.0
-- [Modular bearings](https://github.com/Anthrobotics/modular-bearing) for easy maintenance
-- Separate mounting points - no more risking actuator disassembly when mounting loads
-- 67 mm height has been maintained - thin form factor
-- reduced unique part count - from 14, down to 12.
+# Improvements from V1.1
+- An optional new encoder housing compatible with AMS AS5047 and AS5048 evaluation boards, using push-fit mounting instead of 4x M2x6mm bolts.
+- Improved outer rings for mounting much larger loads (supporting 40mm wide mounts)
+- A sample mount for a 2020 aluminum extrusion has been added
+- [New upper and lower rings for the modular bearing](https://github.com/Anthrobotics/modular-bearing/tree/master/CAD/stl) for added strength
+- A sample mount for securing WOLF to common 1-ton shop cranes
+
+**Note, that no major changes are required from the previous assembly and usage guide. All the same steps can be followed, unless you use the new encoder mount. If that is used, simply use ***3x M4x14mm countersunk bolts*** to secure both the motor and encoder housing to the backplate. 1x M4x12mm bolt can be used to secure the motor into place before affixing the encoder holder.**
 
 # Specifications
-The specs of the V1.1 WOLF actuator are as follows:
+The specs of the V1.2 WOLF actuator are as follows:
 - (Theoretical) Continuous Torque: 80 Nm
 - (Theoretical) Peak Torque: 120 Nm
+- Tested Peak Torque: 90 Nm
 - Reduction: 34:1
 - Weight: 1.55 Kg
 - Max Operating Current: 58 A
@@ -27,7 +31,7 @@ The specs of the V1.1 WOLF actuator are as follows:
 ![alt text](https://github.com/Anthrobotics/.github/blob/main/profile/images/wolf-v1.1-cross-section.png?raw=true)
 
 # Testing
-A number of tests have been performed on V1.0 of WOLF. The test model of WOLF was entirely 3D-printed using Polysonic PLA. Initial torque testing demonstrated that WOLF could output ~40.8 Nm of continuous torque, while consuming 10 A @ 30 VDC. Further testing will be performed to evaluate WOLF's performance at higher current limits, and with SLS-printed nylon gears.
+A number of tests have been performed on V1.1 and V1.2 of WOLF. The test model of WOLF was entirely 3D-printed using Polysonic PLA. Initial torque testing demonstrated that WOLF could output ~40.8 Nm of continuous torque, while consuming 10 A @ 30 VDC. Further testing will be performed to evaluate WOLF's performance at higher current limits, and with SLS-printed nylon gears. Peak torque achieved using PLA gearing (with no damage) is 90 Nm.
 
 The actuator was capable of rotating the entire leg of our humanoid robot approximately 75 degrees in both forward and reverse directions. The weight of the leg is ~6 Kg, and 110 cm in height. 
 
@@ -42,7 +46,7 @@ Test video below (redirects to YouTube):
       </a>
     </div>
 
-V1.1 testing is underway.
+V1.3 testing is underway.
 
 # Bill of Materials
 You will need the following:
@@ -84,7 +88,7 @@ Tools:
 - PTFE lubricant (Super-Lube) for bearings and gears
 
 # Assembly Guide
-See the included V1.1 Assembly and Usage Guide PDF.
+See the included V1.1 Assembly and Usage Guide PDF. (No major changes in V1.2, so the previous guide can be followed.)
 
 # Usage
 WOLF can be used in a number of applications, including:
